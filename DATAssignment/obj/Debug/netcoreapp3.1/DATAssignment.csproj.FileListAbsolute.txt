@@ -1,0 +1,13 @@
+C:\Users\glory\source\repos\DATAssignment\DATAssignment\bin\Debug\netcoreapp3.1\DATAssignment.exe
+C:\Users\glory\source\repos\DATAssignment\DATAssignment\bin\Debug\netcoreapp3.1\DATAssignment.deps.json
+C:\Users\glory\source\repos\DATAssignment\DATAssignment\bin\Debug\netcoreapp3.1\DATAssignment.runtimeconfig.json
+C:\Users\glory\source\repos\DATAssignment\DATAssignment\bin\Debug\netcoreapp3.1\DATAssignment.runtimeconfig.dev.json
+C:\Users\glory\source\repos\DATAssignment\DATAssignment\bin\Debug\netcoreapp3.1\DATAssignment.dll
+C:\Users\glory\source\repos\DATAssignment\DATAssignment\bin\Debug\netcoreapp3.1\DATAssignment.pdb
+C:\Users\glory\source\repos\DATAssignment\DATAssignment\obj\Debug\netcoreapp3.1\DATAssignment.csprojAssemblyReference.cache
+C:\Users\glory\source\repos\DATAssignment\DATAssignment\obj\Debug\netcoreapp3.1\DATAssignment.AssemblyInfoInputs.cache
+C:\Users\glory\source\repos\DATAssignment\DATAssignment\obj\Debug\netcoreapp3.1\DATAssignment.AssemblyInfo.cs
+C:\Users\glory\source\repos\DATAssignment\DATAssignment\obj\Debug\netcoreapp3.1\DATAssignment.csproj.CoreCompileInputs.cache
+C:\Users\glory\source\repos\DATAssignment\DATAssignment\obj\Debug\netcoreapp3.1\DATAssignment.dll
+C:\Users\glory\source\repos\DATAssignment\DATAssignment\obj\Debug\netcoreapp3.1\DATAssignment.pdb
+C:\Users\glory\source\repos\DATAssignment\DATAssignment\obj\Debug\netcoreapp3.1\DATAssignment.genruntimeconfig.cache
